@@ -1,3 +1,11 @@
+
+16-Tile & 32-Tile AMX Implementations
+
+https://www.phoronix.com/news/16-Tile-32-Tile-AMX-Performance
+https://lore.kernel.org/lkml/CAKSQd8WxM75DeZvovYXkt2c60ftHeEW_gpf0qTxaLF8i8kjm=w@mail.gmail.com/
+
+
+
 # THIS PROJECT IS ARCHIVED   
 Intel will not provide or guarantee development of or support for this project, including but not limited to, maintenance, bug fixes, new releases or updates.  
 Patches to this project are no longer accepted by Intel.  
