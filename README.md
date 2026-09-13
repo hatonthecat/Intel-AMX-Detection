@@ -7,7 +7,7 @@
 https://www.phoronix.com/news/16-Tile-32-Tile-AMX-Performance
 https://lore.kernel.org/lkml/CAKSQd8WxM75DeZvovYXkt2c60ftHeEW_gpf0qTxaLF8i8kjm=w@mail.gmail.com/
 
-Possible feature addition: need to list specific AMX-TILE-Support limit by size (e.g AMX-TILE-8, AMX-TILE-16,AMX-TILE-32) if hardware limited.
+Possible feature addition: need to list specific AMX-TILE-Support limit by size (e.g AMX-TILE-8, AMX-TILE-16, AMX-TILE-32) if hardware limited.
 
 "CPUID.07H.00H:EDX[24] indicates AMX-TILE support."
 
